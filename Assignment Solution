@@ -1,0 +1,29 @@
+Q:- Find out the mail servers of the following domain : Ibm.com & Wipro.com
+
+Ans:- IBM:- ibm.com
+            Server:  UnKnown
+            Address:  192.168.1.1
+
+            Non-authoritative answer:
+            ibm.com MX preference = 5, mail exchanger = mx0b-001b2d01.pphosted.com
+            ibm.com MX preference = 5, mail exchanger = mx0a-001b2d01.pphosted.com
+            
+ So,IBM mail server is mail exchanger = mx0b-001b2d01.pphosted.com and mx0a-001b2d01.pphosted.com
+ 
+ Wipro.com :- wipro.com
+              Server:  UnKnown
+              Address:  192.168.1.1
+
+              Non-authoritative answer:
+              wipro.com       MX preference = 0, mail exchanger = wipro-com.mail.protection.outlook.com
+
+              wipro.com       nameserver = ns4.webindia.com
+              wipro.com       nameserver = ns2.webindia.com
+              wipro.com       nameserver = ns1.webindia.com
+              
+So,Wipro server is mail exchanger =ns4.webindia.com , nameserver = ns2.webindia.com &  nameserver = ns1.webindia.com
+
+
+Q:- Find the locations, where these email servers are hosted.
+
+Ans:- 
